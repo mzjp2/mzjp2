@@ -1,16 +1,23 @@
-### Hi there 👋
+<h3 align="center">
+    :wave: Hello, I'm Zain!
+</h3>
 
-<!--
-**mzjp2/mzjp2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://linkedin.com/zain-patel">
+        <img src="icons/linkedin.svg" width=20px height=20px alt="linkedin: zain-patel">
+    </a>&nbsp;
+    <a href="https://github.com/mzjp2">
+        <img src="icons/github.svg" width=20px height=20px alt="github: mzjp2">
+    </a>&nbsp;
+    <a href="https://stackexchange.com/users/2591836/zain-patel">
+        <img src="icons/stackoverflow.svg" width=20px height=20px alt="stackoverflow">
+    </a>&nbsp;
+    <a href="mailto:zain.patel06@gmail.com">
+        <img src="icons/mail.svg" width=20px height=20px alt="email">
+    </a>&nbsp;
+    <a href="https://zainp.com">
+        <img src="icons/web.svg" width=20px height=20px alt="website">
+    </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I recently graduated from the [University of Cambridge](https://www.cam.ac.uk) with a BA in Mathematics. I've since been working as a software engineer at [QuantumBlack](https://quantumblack.com), specifically within [QuantumBlack Labs](https://github.com/quantumblacklabs) across a variety of our products, including [Kedro](https://github.com/quantumblacklabs/kedro), our open source development workflow framework. I'm an avid open source contributor, as a core developer on [Zarr](https://github.com/zarr-developers/zarr-python) and numerous open source contributions to various frameworks and libraries.
