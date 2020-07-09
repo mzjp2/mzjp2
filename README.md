@@ -1,6 +1,8 @@
-## :wave: Hi there!
+<h3 align="center">
+    :wave: Hello, I'm Zain!
+</h3>
 
-<p align='center'>
+<p align="center">
     <a href="https://linkedin.com/zain-patel">
         <img src="icons/linkedin.svg" width=20px height=20px alt="linkedin: zain-patel">
     </a>&nbsp;
@@ -17,3 +19,5 @@
         <img src="icons/web.svg" width=20px height=20px alt="website">
     </a>
 </p>
+
+I recently graduated from the [University of Cambridge](https://www.cam.ac.uk) with a BA in Mathematics. I've since been working as a software engineer at [QuantumBlack](https://quantumblack.com), specifically within [QuantumBlack Labs](https://github.com/quantumblacklabs) across a variety of our products, including [Kedro](https://github.com/quantumblacklabs/kedro), our open source development workflow framework. I'm an avid open source contributor, as a core developer on [Zarr](https://github.com/zarr-developers/zarr-python) and numerous open source contributions to various frameworks and libraries.
