@@ -27,4 +27,4 @@ I recently graduated from the [University of Cambridge](https://www.cam.ac.uk) w
 You can find my (irregular) blogging over at [zainp.com/blog](https://zainp.com/blog) where I talk about everything from experimenting with Golang to some of Kedro's new features to hacking around with my banking app.
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=mzjp2.visitor-badge">
-![http://hits.dwyl.com/mzjp2/mzjp2.svg]
+![Hitcount](http://hits.dwyl.com/mzjp2/mzjp2.svg)
