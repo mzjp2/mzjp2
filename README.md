@@ -27,8 +27,8 @@ I recently graduated from the [University of Cambridge](https://www.cam.ac.uk) w
 You can find my (irregular) blogging over at [zainp.com/blog](https://zainp.com/blog) where I talk about everything from experimenting with Golang to some of Kedro's new features to hacking around with my banking app.
 
 <a href="https://github.com/mzjp2">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mzjp2&count_private=true&show_icons=true&hide=stars" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzjp2&hide=html" />
 </a>
 <a href="https://github.com/mzjp2">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzjp2&hide=html" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mzjp2&count_private=true&show_icons=true&hide=stars" />
 </a>
