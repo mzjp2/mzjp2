@@ -30,5 +30,5 @@ You can find my (irregular) blogging over at [zainp.com/blog](https://zainp.com/
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzjp2&hide=html" />
 </a>
 <a href="https://github.com/mzjp2">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mzjp2&count_private=true&show_icons=true&hide=stars" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mzjp2&count_private=true&show_icons=true&hide=stars&include_all_commits=true" />
 </a>
