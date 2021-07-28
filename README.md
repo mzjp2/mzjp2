@@ -20,7 +20,7 @@
     </a>
 </p>
 
-I recently graduated from the [University of Cambridge](https://www.cam.ac.uk) with a BA in Mathematics. I've since been working as a software engineer at [QuantumBlack](https://quantumblack.com), specifically within [QuantumBlack Labs](https://github.com/quantumblacklabs) across a variety of our products, including [Kedro](https://github.com/quantumblacklabs/kedro), our open source development workflow framework. I'm an avid open source contributor, as a core developer on [Zarr](https://github.com/zarr-developers/zarr-python) and numerous open source contributions to various frameworks and libraries.
+I recently graduated from the [University of Cambridge](https://www.cam.ac.uk) with a BA in Mathematics. I've since been working as a software engineer at [QuantumBlack](https://quantumblack.com), specifically within [QuantumBlack Labs](https://github.com/quantumblacklabs) across a variety of our products, including [Kedro](https://github.com/quantumblacklabs/kedro), our open source development workflow framework and [CausalNex](https://github.com/quantumblacklabs/causalnex), our open source causalex inference library. I'm a huge fan of open source, as a core developer on [Zarr](https://github.com/zarr-developers/zarr-python) and with numerous open source contributions to various frameworks and libraries.
 
 ### Blog posts
 
